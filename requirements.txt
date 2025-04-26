@@ -6,3 +6,4 @@ keras
 scipy
 tensorflow
 keras
+face-recognition
